@@ -6,6 +6,13 @@
 
 ![みよんみよん](https://res.cloudinary.com/weep/image/upload/c_scale,w_128/v1549292252/img/myonmyon.gif)
 
+# NAME
+
+- en - MiyonMiyon
+- ja - みよんみよん
+- cn - 咪永咪永
+
+
 # LINKS
 
 - [Wikipage](https://github.com/MiyonMiyon/InstanceTicker/wiki/MIYON)
@@ -17,5 +24,4 @@
 ![Attribution 4.0 International (CC BY 4.0)](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
 - "MiyonMiyon" ©2019 MiyonMiyon CC BY 4.0
-- "MiyonMiyon" ©2019 みよんみよん CC BY 4.0
-- "MiyonMiyon" ©2019 咪永咪永 CC BY 4.0
+
