@@ -1,6 +1,6 @@
 # MiyonMiyon
 
-![MiyonMiyon](https://res.cloudinary.com/miy/p/MiyonMiyon.png)
+![MiyonMiyon](https://res.cloudinary.com/miy/p/miyon_202001181654.png)
 
 ![みよんみよん](https://res.cloudinary.com/weep/image/upload/c_scale,h_180/v1549293189/img/myon.png) ![みょん](https://res.cloudinary.com/weep/image/upload/c_scale,h_180/v1549295157/img/_____1_2.png) ![みょん](https://res.cloudinary.com/weep/image/upload/c_scale,h_180/v1549295157/img/_____1_3.png) ![みょん](https://res.cloudinary.com/weep/image/upload/c_scale,h_180/v1549295158/img/_____1_4.png) 
 
@@ -16,7 +16,7 @@
 # LINKS
 
 - [Wikipage](https://github.com/MiyonMiyon/InstanceTicker/wiki/MIYON)
-- [Mastodon](https://fedibird.com/@Tickerjp)
+- [Mastodon](https://miyon.net/@miyon)
 
 
 # LICENCE
