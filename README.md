@@ -6,11 +6,11 @@
 
 ![みよんみよん](https://res.cloudinary.com/weep/image/upload/c_scale,w_128/v1549292252/img/myonmyon.gif)
 
-# NAME
+# NAME 
 
 - en - MiyonMiyon
-- ja - みよんみよん
-- cn - 咪永咪永
+- ja - みよんみよん or みょんみょん
+- cn - 咪咏咪咏 or 米永米永
 
 
 # LINKS
