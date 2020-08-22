@@ -8,13 +8,12 @@
 
 - en - MiyonMiyon
 - ja - みよんみよん or みょんみょん
-- cn - 咪咏咪咏 or 米永米永
+- zh - 咪咏咪咏 or 米永米永
 
 
 # LINKS
 
-- [Wikipage](https://github.com/MiyonMiyon/InstanceTicker/wiki/MIYON)
-- [Mastodon](https://miyon.net/@miyon)
+- [Mastodon Account](https://miyon.net/@miyon)
 
 
 # LICENCE
